@@ -9,7 +9,7 @@
 
 1. **安裝瀏覽器外掛**：確保你的瀏覽器已安裝 [Tampermonkey (油猴)](https://tampermonkey.net) 擴充功能。
 2. **一鍵安裝本插件**：點擊下方連結（或進入本專案的 `youtube-pip.user.js` 檔案點擊 "Raw"），油猴便會自動彈出安裝視窗：
-   👉 [**點我直接一鍵安裝插件**]([https://github.com](https://github.com/appli2638/youtube-auto-bilibili-miniplayer/blob/main/youtube-pip.user.js)) 
+   👉 [**點我直接一鍵安裝插件**]([https://github.com/appli2638/youtube-auto-bilibili-miniplayer/blob/main/youtube-pip.user.js]) 
    *(⚠️ 請記得把上方網址中的「你的GitHub帳號」改成你真正的 GitHub 使用者名稱！)*
 
 ---
