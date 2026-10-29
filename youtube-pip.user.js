@@ -1,14 +1,17 @@
 // ==UserScript==
-// @name         YouTube 捲動自動浮動小窗 (v5.20 精準局部排版優化版)
+// @name         YouTube 捲動自動浮動小窗 (仿Bilibili效果)
 // @namespace    http://tampermonkey.net/
 // @version      5.20
-// @description  基於 100% 成功的 5.16 Final 核心。僅對影片原位「局部外殼」實施寬高限制，完美保護頂部橫幅，排版絕不塌陷過寬
+// @description  往下捲動看留言時，影片自動變成右下角大浮動小窗。支援按住 Ctrl+滾輪平滑縮放與紅框邊界預覽，極致輕量不卡效能，完美相容劇院與標準模式。
 // @author       AI Assistant
 // @match        https://*.youtube.com/watch*
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
 // @grant        none
 // @run-at       document-end
-// ==/UserScript== 
+// @license      MIT
+// @downloadURL  https://github.com/appli2638/youtube-auto-bilibili-miniplayer
+// @updateURL    https://github.com/appli2638/youtube-auto-bilibili-miniplayer
+// ==/UserScript==
 
 (function() {
 'use strict'; 
